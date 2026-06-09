@@ -58,19 +58,19 @@ code/
 
 ### Supplementary Video S1: Data Assimilation Results
 
-![](supplementary/Video_S1_Assimilation.gif)
+![](Video_S1_Assimilation.gif)
 
 ### Supplementary Video S2: CNN Forecasting Results
 
-![](supplementary/Video_S2_CNN_Forecast.gif)
+![](Video_S2_CNN_Forecast.gif)
 
 ### Supplementary Video S3: FNO Forecasting Results
 
-![](supplementary/Video_S3_FNO_Forecast.gif)
+![](Video_S3_FNO_Forecast.gif)
 
 ### Supplementary Video S4: PINO Forecasting Results
 
-![](supplementary/Video_S4_PINO_Forecast.gif)
+![](Video_S4_PINO_Forecast.gif)
 
 
 ## Study Area
